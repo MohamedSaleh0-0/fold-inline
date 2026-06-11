@@ -1,0 +1,19 @@
+{
+  "name": "local-inline-capsule",
+  "version": "1.0.0",
+  "description": "Clean Architecture recursive inline encapsulation plugin for Obsidian.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.js",
+    "build": "node esbuild.config.js prod"
+  },
+  "keywords": [],
+  "author": "Mohamed Saleh",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "esbuild": "^0.20.0",
+    "obsidian": "^1.5.0",
+    "typescript": "^5.0.0"
+  }
+}
