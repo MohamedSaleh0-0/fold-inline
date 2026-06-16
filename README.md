@@ -34,11 +34,11 @@ The plugin scans your notes and builds interactive widgets based on your delimit
 
 ### Basic Flashcard Mode (Default)
 To hide an answer or text block, wrap it in your active class symbols:
-The capital of Egypt is [=Cairo=].
+The capital of Egypt is `[=Cairo=]`.
 
 ### Dynamic Alias Mode (Pipe Syntax)
 To override the default placeholder text with a custom label or question, use the pipe operator:
-[=An object-oriented language developed by Microsoft|Click to reveal the language=]
+`[=An object-oriented language developed by Microsoft|Click to reveal the language=]`
 
 ---
 
