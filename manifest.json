@@ -1,7 +1,7 @@
 {
-  "id": "inline-fold",
-  "name": "Inline Fold",
-  "version": "1.1.0",
+  "id": "fold-inline",
+  "name": "fold-inline",
+  "version": "1.0.0",
   "minAppVersion": "0.15.0",
   "description": "Extend Markdown capabilities by adding inline fold, encapsulate text anywhere in the note, create spoilers, even flashcards for active recall.",
   "author": "Mohamed Saleh",
